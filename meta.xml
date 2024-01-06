@@ -1,0 +1,12 @@
+<meta>
+    <oop>true</oop>
+    <script src="client.lua" type="client" />
+
+    <file src="files/ellipse.png" />
+    <file src="files/1.png" />
+    <file src="files/2.png" />
+    <file src="files/3.png" />
+    <file src="files/4.png" />
+    <file src="files/5.png" />
+    <file src="files/dash.png" />
+</meta>
